@@ -1,5 +1,5 @@
 --extra-index-url https://mlc.ai/wheels
-mlc-llm-nightly-cpu==0.19.dev17
-mlc-ai-nightly-cpu==0.19.dev58
+mlc-llm-nightly-cpu
+mlc-ai-nightly-cpu
 streamlit==1.41.1
 markitdown==0.0.1a3
