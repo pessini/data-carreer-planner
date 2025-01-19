@@ -1,2 +1,5 @@
+--extra-index-url https://mlc.ai/wheels
+mlc-llm-nightly-cpu
+mlc-ai-nightly-cpu
 streamlit
 markitdown
